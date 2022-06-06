@@ -1,0 +1,9 @@
+{
+	"name": "liviufactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "740e5aec-4455-45e8-8b8f-105fec8f4c08",
+		"tenantId": "554c5abe-5600-41be-a9cf-b5f9d869ebf0"
+	}
+}
