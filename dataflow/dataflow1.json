@@ -19,7 +19,7 @@
 				"          Movie as string,",
 				"          Title as string,",
 				"          Genres as string,",
-				"          Year as string,",
+				"          Year as integer,",
 				"          Rating as string,",
 				"          {Rotten Tomato} as string",
 				"     ),",
