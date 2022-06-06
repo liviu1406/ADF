@@ -9,7 +9,7 @@
 						"referenceName": "DelimitedText1",
 						"type": "DatasetReference"
 					},
-					"name": "source1"
+					"name": "MoviesADLS"
 				}
 			],
 			"sinks": [],
@@ -25,7 +25,7 @@
 				"     ),",
 				"     allowSchemaDrift: true,",
 				"     validateSchema: false,",
-				"     ignoreNoFilesFound: false) ~> source1"
+				"     ignoreNoFilesFound: false) ~> MoviesADLS"
 			]
 		}
 	}
